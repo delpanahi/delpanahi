@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Delara! 👋🌴🐶
+
+### About Me ###
+I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I have one main career goal – to use my technical skills to leave a lasting and positive impact. I'm looking for full-time roles post-grad (May 2027) that will allow me to ____
+
+### Highlights of My Projects ###
+
+- @Color Buddy
+
 
 <!--
 **delpanahi/delpanahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
