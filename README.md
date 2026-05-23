@@ -5,7 +5,9 @@ I'm passionate about software engineering where it matters. Some of my favorite 
 
 ### Highlights of My Projects ###
 
-- @Color Buddy
+- `Color Buddy`:
+- `SWE Website`:
+- `NYSERDA Website`:
 
 
 <!--
