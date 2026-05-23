@@ -1,7 +1,10 @@
-## Hi, I'm Delara! .✦ ݁˖
+# Hi, I'm Delara! .✦ ݁˖
 
-### About Me ###
+## About Me ###
 I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I have one main career goal – to use my technical skills to leave a lasting and positive impact. I'm looking for full-time roles post-grad (May 2027) that will allow me to work on challenging and meaningful software-based projects.
+
+### Fun Facts! ###
+I love dogs, editing videos, baking, playing volleyball, and traveling. 🌴 
 
 ### Highlights of My Favorite Projects ###
 
@@ -15,5 +18,5 @@ I'm passionate about software engineering where it matters. Some of my favorite 
   From September - December 2024, I participated in a student-based community-service group that assisted The New York State Energy Research and Development Authority (NYSERDA) in spreading information about clean energy units, such as heat pumps, to upstate New York residents. I volunteered to develop an easy-to-use website for users to learn more about heat pumps and NYSERDA's mission. This was the first website I ever created, and through this experience, I taught myself HTML/CSS and the basics for frontend development. 
 
 ### Professional Experiences ###
-- `Software Engineering Intern at CACI`
-- `Software Engineering Intern at Werfen North America`
+- `Software Engineering Intern at CACI` (May - August 2026)
+- `Software Engineering Intern at Werfen North America` (May - August 2025)
