@@ -6,7 +6,7 @@ I'm passionate about software engineering where it matters. Some of my favorite 
 ### Fun Facts! ###
 I love dogs, editing videos, baking, playing volleyball, and traveling. 🌴 
 
-### Highlights of My Favorite Projects ###
+## Highlights of My Favorite Projects ##
 
 - `Color Buddy`:
   In October 2025, I participated in the EmpowHER 2025 week-long hackathon. My teammates and I chose to create an inclusive software tool called Color Buddy that allows designers to understand what their designs may look like to people with various types of color blindness. Through Color Buddy, we specifically show designers what their chosen colors look like to people who have protanopia, deuteranopia, or tritanopia. I played a key role in the development of this tool and was able to expand on my skills in JavaScript and Python.
