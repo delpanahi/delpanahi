@@ -1,9 +1,9 @@
-## Hi, I'm Delara! 👋🌴🐶
+## Hi, I'm Delara! .✦ ݁˖
 
 ### About Me ###
-I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I have one main career goal – to use my technical skills to leave a lasting and positive impact. I'm looking for full-time roles post-grad (May 2027) that will allow me to ____
+I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I have one main career goal – to use my technical skills to leave a lasting and positive impact. I'm looking for full-time roles post-grad (May 2027) that will allow me to work on challenging and meaningful software-based projects.
 
-### Highlights of My Projects ###
+### Highlights of My Favorite Projects ###
 
 - `Color Buddy`:
   In October 2025, I participated in the EmpowHER 2025 week-long hackathon. My teammates and I chose to create an inclusive software tool called Color Buddy that allows designers to understand what their designs may look like to people with various types of color blindness. Through Color Buddy, we specifically show designers what their chosen colors look like to people who have protanopia, deuteranopia, or tritanopia. I played a key role in the development of this tool and was able to expand on my skills in JavaScript and Python.
