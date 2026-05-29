@@ -1,4 +1,4 @@
-# Hi, I'm Delara! .✦ ݁˖
+# Hi, I'm Delara!
 
 ## About Me ###
 I'm a computer science student who loves to turn ambitious ideas into software that people actually use. Whether it's creating websites from scratch, developing accessibility-focused tools, or supporting community organizations through technology, I enjoy projects that combine technical problem-solving with real-world impact. I'm looking for full-time software engineering and development opportunities after graduation (May 2027) where I can keep learning, building, and collaborating on interesting projects.
