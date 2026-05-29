@@ -1,7 +1,7 @@
 # Hi, I'm Delara! .✦ ݁˖
 
 ## About Me ###
-I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I'm looking for full-time roles post-grad (May 2027) that will allow me to continue working on challenging and meaningful software-based projects.
+I'm a computer science student who loves to turn ideas into software that people genuinely use. Whether it's creating websites from scratch, developing accessibility-focused tools, or supporting community organizations through technology, I enjoy projects that combine technical problem-solving with real-world impact. I'm looking for full-time software engineering and development opportunities after graduation (May 2027) where I can keep learning, building, and collaborating on interesting projects.
 
 ### Fun Facts! ###
 I love dogs, editing videos, baking, playing volleyball, and traveling. 🌴 
