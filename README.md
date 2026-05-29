@@ -1,7 +1,7 @@
 # Hi, I'm Delara! .✦ ݁˖
 
 ## About Me ###
-I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I have one main career goal – to use my technical skills to leave a lasting and positive impact. I'm looking for full-time roles post-grad (May 2027) that will allow me to work on challenging and meaningful software-based projects.
+I'm passionate about software engineering where it matters. Some of my favorite projects explore a variety of impactful subjects, such as clean energy and diversity & inclusion. I'm looking for full-time roles post-grad (May 2027) that will allow me to continue working on challenging and meaningful software-based projects.
 
 ### Fun Facts! ###
 I love dogs, editing videos, baking, playing volleyball, and traveling. 🌴 
